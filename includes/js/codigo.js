@@ -57,27 +57,27 @@ function cambioColor(){
 
 /* El tiempo */
 function tiempo(){
-  window.location='bennlli.github.io/benlliMontijano.cesur/ejercicios/tiempo.html';
+  window.location='http://bennlli.github.io/benlliMontijano.cesur/ejercicios/tiempo.html';
 }
 
 /* Evento tecla */
 function evento(){
-  window.location='bennlli.github.io/benlliMontijano.cesur/ejercicios/evento_tecla.html';
+  window.location='http://bennlli.github.io/benlliMontijano.cesur/ejercicios/evento_tecla.html';
 }
 
 /* Primo */
 function primo(){
-  window.location='bennlli.github.io/benlliMontijano.cesur/ejercicios/primo.html';
+  window.location='http://bennlli.github.io/benlliMontijano.cesur/ejercicios/primo.html';
 }
 
 /* Formulario */
 function formulario(){
-  window.location='bennlli.github.io/benlliMontijano.cesur/ejercicios/formulario.html';
+  window.location='http://bennlli.github.io/benlliMontijano.cesur/ejercicios/formulario.html';
 }
 
 /* Video */
 function video(){
-  window.location='http://bennlli.github.io/benlliMontijano.cesur/ejercicios/video.html';
+  window.location='http://http://bennlli.github.io/benlliMontijano.cesur/ejercicios/video.html';
 }
 
 /* Validación DNI */
